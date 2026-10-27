@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d8edff"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+<rect width="480" height="360" rx="24" fill="url(#bg)"/><circle cx="240" cy="142" r="103" fill="#80c5f3" opacity=".22"/>
+<!-- hair behind face --> <path d="M156 151 Q137 43 239 40 Q344 43 325 165 L312 241 L169 241 Z" fill="#e6e8ef"/>
+<!-- shoulders and outfit --> <path d="M119 360 Q126 250 193 239 L287 239 Q354 250 361 360 Z" fill="#4c8ac9"/>
+<path d="M198 238 L240 286 L282 238" fill="#ffffff" opacity=".85"/>
+<!-- face --> <ellipse cx="240" cy="153" rx="69" ry="86" fill="#f1c8a9"/>
+<!-- fringe --> <path d="M171 137 Q164 56 239 57 Q316 56 309 137 Q284 105 257 103 Q224 131 171 137" fill="#e6e8ef"/>
+<ellipse cx="215" cy="158" rx="6" ry="8" fill="#30252a"/><ellipse cx="265" cy="158" rx="6" ry="8" fill="#30252a"/>
+<path d="M222 194 Q240 207 258 194" fill="none" stroke="#9e4d57" stroke-width="5" stroke-linecap="round"/>
+<circle cx="194" cy="180" r="9" fill="#ef8e9d" opacity=".5"/><circle cx="286" cy="180" r="9" fill="#ef8e9d" opacity=".5"/>
+<rect x="20" y="310" width="440" height="34" rx="17" fill="#ffffff" opacity=".78"/><text x="240" y="333" font-family="Arial,sans-serif" font-size="20" text-anchor="middle" fill="#30384a">Elsa</text>
+</svg>
